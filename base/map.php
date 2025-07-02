@@ -30,56 +30,6 @@ $stores = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
 <!DOCTYPE html>
 <html>
-<style>
-@media (min-resolution: 180dpi){ // dpr2.0 and more
-    .map {
-        width: 50%;
-        height: 50%;
-        transform: scale(2);
-        transform-origin: left top;
-    }
-}
-
-.rating-stars {
-    color: darkgoldenrod;
-    font-size: 20px;
-    display: inline-block;
-    line-height: 1;
-    user-select: none;
-	margin-top: auto;
-}
-
-.rating-stars span {
-    cursor: pointer;
-}
-
-.rating-checkin-div {
-	display: flex;
-	margin-top: 5px;
-}
-
-.check-in-button {
-	height: 24px;
-	width: 100px;
-	margin-left: auto !important;
-	display: block;
-	margin: 0;
-	padding: 0;
-}
-
-#follow-button {
-	background: white;
-	border: 1px solid #ccc;
-	border-radius: 4px;
-	padding: 8px 12px;
-	margin: 10px;
-	box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-	cursor: pointer;
-	font-size: 16px;
-	user-select: none;
-}
-</style>
-
 <head>
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <title>HOPT - Hard Off Personal Tracker</title>
@@ -235,12 +185,12 @@ $stores = $stmt->fetchAll(PDO::FETCH_ASSOC);
 					console.log(`Distance to store: ${distance.toFixed(1)} m`);
 
 					if (distance > 250) {
-						alert("You're too far from this store to check in. (Limit: 250m)");
 						return false;
 					}
+					return true;
 				}
 			);
-			return true;
+			return false;
 		}
 
 		// update last check-in time for store
@@ -250,6 +200,7 @@ $stores = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
 			if (navigator.geolocation) {
 				if (!checkNearStore(storeId)) {
+					alert("You're too far from this store to check in. (Limit: 250m)");
 					return;
 				}
 			}
