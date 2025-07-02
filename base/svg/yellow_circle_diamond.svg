@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.4999981mm"
+   height="8.6395893mm"
+   viewBox="0 0 8.4999981 8.6395893"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.7890842"
+         id="stop2" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-2-6"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,43.75,61.507292)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-95.749998,-148.87498)">
+    <g
+       id="g6-5-7"
+       transform="translate(3.0093033e-7,30.264579)">
+      <g
+         id="g3-2-0-8"
+         transform="translate(12.500002,-0.02187695)">
+        <circle
+           style="fill:url(#radialGradient3-9-2-6);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           id="path2-3-90-8"
+           cx="87.5"
+           cy="123.02187"
+           r="4.25" />
+        <circle
+           style="fill:#ffd42a;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+           id="path1-3-0-2"
+           cx="87.5"
+           cy="122.75729"
+           r="3.75" />
+      </g>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.788994;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3-6-9"
+         width="3.0000041"
+         height="2.99999"
+         x="156.09126"
+         y="14.669911"
+         transform="rotate(45)" />
+    </g>
+  </g>
+</svg>

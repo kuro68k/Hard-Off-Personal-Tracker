@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5000057mm"
+   height="8.7645817mm"
+   viewBox="0 0 8.5000057 8.7645817"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.7890842"
+         id="stop2" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient2"
+       id="radialGradient3"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,43.75,61.507292)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-83.249995,-118.5073)">
+    <g
+       id="g5">
+      <circle
+         style="fill:url(#radialGradient3);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path2"
+         cx="87.5"
+         cy="123.02187"
+         r="4.25" />
+      <circle
+         style="fill:#00acc1;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path1"
+         cx="87.5"
+         cy="122.75729"
+         r="3.75" />
+      <ellipse
+         style="fill:#20cce1;fill-opacity:1;stroke:none;stroke-width:0.666665;stroke-dasharray:none;stroke-opacity:1"
+         id="path3"
+         cx="87.5"
+         cy="122.75729"
+         rx="1.0062503"
+         ry="0.99999821" />
+    </g>
+  </g>
+</svg>

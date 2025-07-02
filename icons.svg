@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="icons.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="6.3214927"
+     inkscape:cx="402.12021"
+     inkscape:cy="549.71194"
+     inkscape:window-width="3840"
+     inkscape:window-height="2050"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.7890842"
+         id="stop2" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,43.75,61.507292)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,43.75,61.507292)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-3"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,69.250003,61.485415)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-3-6"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,69.250003,61.485415)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-2"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,43.75,61.507292)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-8"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,43.75,61.507292)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-8-4"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,43.75,61.507292)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-2-6"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,43.75,61.507292)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-3-6-6"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,69.250003,61.485415)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-8-4-0"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,43.75,61.507292)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-2-6-3"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,43.75,61.507292)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-3-6-6-6"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,69.250003,61.485415)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-3-4"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,83.250006,61.749991)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-3-6-0"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,69.250003,61.485415)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-3-6-6-0"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,69.250003,61.485415)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-3-6-6-6-1"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,69.250003,61.485415)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5"
+       inkscape:export-filename="svg\svg\svg\svg\lightblue_circle_circle.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         style="fill:url(#radialGradient3);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path2"
+         cx="87.5"
+         cy="123.02187"
+         r="4.25"
+         inkscape:export-filename="lightblue_circle_circle.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="fill:#00acc1;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+         id="path1"
+         cx="87.5"
+         cy="122.75729"
+         r="3.75" />
+      <ellipse
+         style="fill:#20cce1;fill-opacity:1;stroke:none;stroke-width:0.666665;stroke-dasharray:none;stroke-opacity:1"
+         id="path3"
+         cx="87.5"
+         cy="122.75729"
+         rx="1.0062503"
+         ry="0.99999821" />
+    </g>
+    <g
+       id="g6"
+       inkscape:export-filename="svg\svg\svg\lightblue_circle_diamond.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g3-2"
+         transform="translate(12.500002,-0.02187695)">
+        <circle
+           style="fill:url(#radialGradient3-9);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           id="path2-3"
+           cx="87.5"
+           cy="123.02187"
+           r="4.25"
+           inkscape:export-filename="lightblue_circle_circle.svg"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <circle
+           style="fill:#00acc1;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+           id="path1-3"
+           cx="87.5"
+           cy="122.75729"
+           r="3.75" />
+      </g>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.788994;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3"
+         width="3.0000041"
+         height="2.99999"
+         x="156.09126"
+         y="14.669911"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g7"
+       inkscape:export-filename="svg\lightblue_circle_star.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         style="fill:url(#radialGradient3-9-3);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-3-9"
+         cx="113"
+         cy="123"
+         r="4.25"
+         inkscape:export-filename="lightblue_circle_circle.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="fill:#00acc1;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+         id="path1-3-3"
+         cx="113"
+         cy="122.73542"
+         r="3.75" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path5"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="113"
+         sodipodi:cy="123"
+         sodipodi:r1="1.9999999"
+         sodipodi:r2="0.99999994"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 113,121 0.58779,1.19098 1.31432,0.19099 -0.95105,0.92705 0.22451,1.30901 L 113,124 l -1.17557,0.61803 0.22451,-1.30901 -0.95105,-0.92705 1.31432,-0.19099 z"
+         inkscape:transform-center-y="-0.23872849"
+         transform="matrix(1.25,0,0,1.25,-28.25,-30.975851)" />
+    </g>
+    <g
+       id="g5-2"
+       inkscape:export-filename="svg\orange_circle_circle.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0.50000202,16.242702)">
+      <circle
+         style="fill:url(#radialGradient3-8);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-4"
+         cx="87.5"
+         cy="123.02187"
+         r="4.25"
+         inkscape:export-filename="lightblue_circle_circle.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+         id="path1-8"
+         cx="87.5"
+         cy="122.75729"
+         r="3.75" />
+      <ellipse
+         style="fill:#ff8620;fill-opacity:1;stroke:none;stroke-width:0.666665;stroke-dasharray:none;stroke-opacity:1"
+         id="path3-6"
+         cx="87.5"
+         cy="122.75729"
+         rx="1.0062503"
+         ry="0.99999821" />
+    </g>
+    <g
+       id="g6-5"
+       inkscape:export-filename="svg\orange_circle_diamond.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0.50000202,16.242702)">
+      <g
+         id="g3-2-0"
+         transform="translate(12.500002,-0.02187695)">
+        <circle
+           style="fill:url(#radialGradient3-9-2);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           id="path2-3-90"
+           cx="87.5"
+           cy="123.02187"
+           r="4.25"
+           inkscape:export-filename="lightblue_circle_circle.svg"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <circle
+           style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+           id="path1-3-0"
+           cx="87.5"
+           cy="122.75729"
+           r="3.75" />
+      </g>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.788994;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3-6"
+         width="3.0000041"
+         height="2.99999"
+         x="156.09126"
+         y="14.669911"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g7-1"
+       inkscape:export-filename="svg\orange_circle_star.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0.50000202,16.242702)">
+      <circle
+         style="fill:url(#radialGradient3-9-3-6);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-3-9-3"
+         cx="113"
+         cy="123"
+         r="4.25"
+         inkscape:export-filename="lightblue_circle_circle.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+         id="path1-3-3-8"
+         cx="113"
+         cy="122.73542"
+         r="3.75" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path5-9"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="113"
+         sodipodi:cy="123"
+         sodipodi:r1="1.9999999"
+         sodipodi:r2="0.99999994"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 113,121 0.58779,1.19098 1.31432,0.19099 -0.95105,0.92705 0.22451,1.30901 L 113,124 l -1.17557,0.61803 0.22451,-1.30901 -0.95105,-0.92705 1.31432,-0.19099 z"
+         inkscape:transform-center-y="-0.23872849"
+         transform="matrix(1.25,0,0,1.25,-28.25,-30.975851)" />
+    </g>
+    <g
+       id="g5-2-4"
+       inkscape:export-filename="svg\yellow_circle_circle.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(3.0093033e-7,30.264579)">
+      <circle
+         style="fill:url(#radialGradient3-8-4);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-4-9"
+         cx="87.5"
+         cy="123.02187"
+         r="4.25"
+         inkscape:export-filename="lightblue_circle_circle.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="fill:#ffd42a;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+         id="path1-8-6"
+         cx="87.5"
+         cy="122.75729"
+         r="3.75" />
+      <ellipse
+         style="fill:#ffe680;fill-opacity:1;stroke:none;stroke-width:0.666665;stroke-dasharray:none;stroke-opacity:1"
+         id="path3-6-3"
+         cx="87.5"
+         cy="122.75729"
+         rx="1.0062503"
+         ry="0.99999821" />
+    </g>
+    <g
+       id="g6-5-7"
+       inkscape:export-filename="svg\yellow_circle_diamond.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(3.0093033e-7,30.264579)">
+      <g
+         id="g3-2-0-8"
+         transform="translate(12.500002,-0.02187695)">
+        <circle
+           style="fill:url(#radialGradient3-9-2-6);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           id="path2-3-90-8"
+           cx="87.5"
+           cy="123.02187"
+           r="4.25"
+           inkscape:export-filename="lightblue_circle_circle.svg"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <circle
+           style="fill:#ffd42a;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+           id="path1-3-0-2"
+           cx="87.5"
+           cy="122.75729"
+           r="3.75" />
+      </g>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.788994;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3-6-9"
+         width="3.0000041"
+         height="2.99999"
+         x="156.09126"
+         y="14.669911"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g7-1-1"
+       inkscape:export-filename="svg\yellow_circle_star.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(3.0093033e-7,30.264579)">
+      <circle
+         style="fill:url(#radialGradient3-9-3-6-6);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-3-9-3-3"
+         cx="113"
+         cy="123"
+         r="4.25"
+         inkscape:export-filename="lightblue_circle_circle.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="fill:#ffd42a;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+         id="path1-3-3-8-5"
+         cx="113"
+         cy="122.73542"
+         r="3.75" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path5-9-9"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="113"
+         sodipodi:cy="123"
+         sodipodi:r1="1.9999999"
+         sodipodi:r2="0.99999994"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 113,121 0.58779,1.19098 1.31432,0.19099 -0.95105,0.92705 0.22451,1.30901 L 113,124 l -1.17557,0.61803 0.22451,-1.30901 -0.95105,-0.92705 1.31432,-0.19099 z"
+         inkscape:transform-center-y="-0.23872849"
+         transform="matrix(1.25,0,0,1.25,-28.25,-30.975851)" />
+    </g>
+    <g
+       id="g5-2-4-4"
+       inkscape:export-filename="svg\green_circle_circle.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(3.0093032e-7,43.999999)">
+      <circle
+         style="fill:url(#radialGradient3-8-4-0);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-4-9-2"
+         cx="87.5"
+         cy="123.02187"
+         r="4.25"
+         inkscape:export-filename="lightblue_circle_circle.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="fill:#55d400;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+         id="path1-8-6-0"
+         cx="87.5"
+         cy="122.75729"
+         r="3.75" />
+      <ellipse
+         style="fill:#99ff55;fill-opacity:1;stroke:none;stroke-width:0.666665;stroke-dasharray:none;stroke-opacity:1"
+         id="path3-6-3-9"
+         cx="87.5"
+         cy="122.75729"
+         rx="1.0062503"
+         ry="0.99999821" />
+    </g>
+    <g
+       id="g6-5-7-7"
+       inkscape:export-filename="svg\green_circle_diamond.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(3.0093032e-7,43.999999)">
+      <g
+         id="g3-2-0-8-3"
+         transform="translate(12.500002,-0.02187695)">
+        <circle
+           style="fill:url(#radialGradient3-9-2-6-3);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           id="path2-3-90-8-7"
+           cx="87.5"
+           cy="123.02187"
+           r="4.25"
+           inkscape:export-filename="lightblue_circle_circle.svg"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <circle
+           style="fill:#55d400;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+           id="path1-3-0-2-2"
+           cx="87.5"
+           cy="122.75729"
+           r="3.75" />
+      </g>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.788994;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3-6-9-6"
+         width="3.0000041"
+         height="2.99999"
+         x="156.09126"
+         y="14.669911"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g7-1-1-0"
+       inkscape:export-filename="svg\green_circle_star.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(3.0093032e-7,43.999999)">
+      <circle
+         style="fill:url(#radialGradient3-9-3-6-6-6);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-3-9-3-3-1"
+         cx="113"
+         cy="123"
+         r="4.25"
+         inkscape:export-filename="lightblue_circle_circle.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="fill:#55d400;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+         id="path1-3-3-8-5-6"
+         cx="113"
+         cy="122.73542"
+         r="3.75" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path5-9-9-5"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="113"
+         sodipodi:cy="123"
+         sodipodi:r1="1.9999999"
+         sodipodi:r2="0.99999994"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 113,121 0.58779,1.19098 1.31432,0.19099 -0.95105,0.92705 0.22451,1.30901 L 113,124 l -1.17557,0.61803 0.22451,-1.30901 -0.95105,-0.92705 1.31432,-0.19099 z"
+         inkscape:transform-center-y="-0.23872849"
+         transform="matrix(1.25,0,0,1.25,-28.25,-30.975851)" />
+    </g>
+    <g
+       id="g12"
+       inkscape:export-filename="svg\lightblue_circle_cross.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         style="fill:url(#radialGradient3-9-3-4);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-3-9-7"
+         cx="127"
+         cy="123.26458"
+         r="4.25"
+         inkscape:export-filename="lightblue_circle_circle.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="fill:#00acc1;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+         id="path1-3-3-1"
+         cx="127"
+         cy="123"
+         r="3.75" />
+      <g
+         id="g8">
+        <path
+           style="fill:#99ff55;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 125.5,121.50001 3,2.99999"
+           id="path7" />
+        <path
+           style="fill:#99ff55;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 128.49999,121.5 -2.99999,3"
+           id="path7-8" />
+      </g>
+    </g>
+    <g
+       id="g11"
+       inkscape:export-filename="svg\orange_circle_cross.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g7-1-7"
+         inkscape:export-filename="svg\orange_circle_star.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         transform="translate(14.500005,16.507278)">
+        <circle
+           style="fill:url(#radialGradient3-9-3-6-0);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           id="path2-3-9-3-7"
+           cx="113"
+           cy="123"
+           r="4.25"
+           inkscape:export-filename="lightblue_circle_circle.svg"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <circle
+           style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+           id="path1-3-3-8-7"
+           cx="113"
+           cy="122.73542"
+           r="3.75" />
+      </g>
+      <g
+         id="g8-0"
+         transform="translate(0.500005,16.242698)">
+        <path
+           style="fill:#99ff55;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 125.5,121.50001 3,2.99999"
+           id="path7-9" />
+        <path
+           style="fill:#99ff55;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 128.49999,121.5 -2.99999,3"
+           id="path7-8-4" />
+      </g>
+    </g>
+    <g
+       id="g10"
+       inkscape:export-filename="svg\yellow_circle_cross.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g7-1-1-3"
+         inkscape:export-filename="svg\yellow_circle_star.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         transform="translate(14.000003,30.529155)">
+        <circle
+           style="fill:url(#radialGradient3-9-3-6-6-0);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           id="path2-3-9-3-3-5"
+           cx="113"
+           cy="123"
+           r="4.25"
+           inkscape:export-filename="lightblue_circle_circle.svg"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <circle
+           style="fill:#ffd42a;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+           id="path1-3-3-8-5-9"
+           cx="113"
+           cy="122.73542"
+           r="3.75" />
+      </g>
+      <g
+         id="g8-1"
+         transform="translate(3e-6,30.264575)">
+        <path
+           style="fill:#99ff55;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 125.5,121.50001 3,2.99999"
+           id="path7-2" />
+        <path
+           style="fill:#99ff55;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 128.49999,121.5 -2.99999,3"
+           id="path7-8-0" />
+      </g>
+    </g>
+    <g
+       id="g9"
+       inkscape:export-filename="svg\green_circle_cross.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g7-1-1-0-8"
+         inkscape:export-filename="svg\green_circle_star.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         transform="translate(14.000003,44.264575)">
+        <circle
+           style="fill:url(#radialGradient3-9-3-6-6-6-1);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           id="path2-3-9-3-3-1-1"
+           cx="113"
+           cy="123"
+           r="4.25"
+           inkscape:export-filename="lightblue_circle_circle.svg"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <circle
+           style="fill:#55d400;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+           id="path1-3-3-8-5-6-8"
+           cx="113"
+           cy="122.73542"
+           r="3.75" />
+      </g>
+      <g
+         id="g8-6"
+         transform="translate(3e-6,43.999995)">
+        <path
+           style="fill:#99ff55;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 125.5,121.50001 3,2.99999"
+           id="path7-1" />
+        <path
+           style="fill:#99ff55;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 128.49999,121.5 -2.99999,3"
+           id="path7-8-8" />
+      </g>
+    </g>
+  </g>
+</svg>

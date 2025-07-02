@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.4999981mm"
+   height="8.6395893mm"
+   viewBox="0 0 8.4999981 8.6395893"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.7890842"
+         id="stop2" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient2"
+       id="radialGradient3-9-3-6-6-0"
+       cx="87.5"
+       cy="123.02917"
+       fx="87.5"
+       fy="123.02917"
+       r="8.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,69.250003,61.485415)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-122.75,-149.13958)">
+    <g
+       id="g10">
+      <g
+         id="g7-1-1-3"
+         transform="translate(14.000003,30.529155)">
+        <circle
+           style="fill:url(#radialGradient3-9-3-6-6-0);stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           id="path2-3-9-3-3-5"
+           cx="113"
+           cy="123"
+           r="4.25" />
+        <circle
+           style="fill:#ffd42a;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
+           id="path1-3-3-8-5-9"
+           cx="113"
+           cy="122.73542"
+           r="3.75" />
+      </g>
+      <g
+         id="g8-1"
+         transform="translate(3e-6,30.264575)">
+        <path
+           style="fill:#99ff55;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 125.5,121.50001 3,2.99999"
+           id="path7-2" />
+        <path
+           style="fill:#99ff55;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 128.49999,121.5 -2.99999,3"
+           id="path7-8-0" />
+      </g>
+    </g>
+  </g>
+</svg>
